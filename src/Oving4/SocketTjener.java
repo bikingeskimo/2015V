@@ -1,7 +1,8 @@
 package Oving4;
 
-import java.io.*;
-import java.net.*;
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
 import java.util.ArrayList;
 
 class SocketTjener {
