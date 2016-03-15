@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Oving3/Konto/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/Konto/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/Konto/KontoTest.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoMedFabrikkmetode/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoMedFabrikkmetode/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoMedFabrikkmetode/KontoTest.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMI/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMI/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMI/KontoKlient.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMIMedFabrikk/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMIMedFabrikk/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMIMedFabrikk/KontoKlient.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMIMedFabrikk/KontoTjener.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/KontoRMIMedFabrikk/KontofabrikkImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave1/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave1/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave1/KontoTest.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave2/Konto.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave2/KontoImpl.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave2/KontoKlient.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/LitenOppgave2/KontoTjener.java" charset="ISO-8859-1" />
+    <file url="file://$PROJECT_DIR$/src/Oving3/Register.java" charset="ISO-8859-1" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
