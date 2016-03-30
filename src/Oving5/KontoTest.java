@@ -25,15 +25,15 @@ public class KontoTest {
             System.out.println("OK");*/
 
             konto = new Konto("1112", 500, "Olav Normann", 0);
-            //fasade.lagreNyKonto(konto);
-            //System.out.println("OK");
+            fasade.lagreNyKonto(konto);
+            System.out.println("OK");
 
             konto = new Konto("1113", 1500, "Kari Normann", 0);
-            //fasade.lagreNyKonto(konto);
+            fasade.lagreNyKonto(konto);
             //System.out.println("OK");
 
             konto = new Konto("2112", 12600, "Magda Normann", 0);
-            // fasade.lagreNyKonto(konto);
+            fasade.lagreNyKonto(konto);
             // System.out.println("OK");
 
 
